@@ -14,6 +14,7 @@
 
 # 2021
 
-## 一月
+## 二月
 
-- 第 1 期：["世纪逼空大战"](https://github.com/wmyskxz/weekly/blob/master/docs/issue-1.md)
+- 第 2 期：[年味去了哪里？](https://github.com/wmyskxz/weekly/blob/main/docs/issue-2.md)
+- 第 1 期：["世纪逼空大战"](https://github.com/wmyskxz/weekly/blob/main/docs/issue-1.md)
