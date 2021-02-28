@@ -16,6 +16,7 @@
 
 ## 二月
 
+- 第 4 期：[你的命运不是一头骡子](https://github.com/wmyskxz/weekly/blob/main/doc/issue-4.md)
 - 第 3 期：[开工大吉的 B 面](https://github.com/wmyskxz/weekly/blob/main/doc/issue-3.md)
 - 第 2 期：[年味去了哪里？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-2.md)
 - 第 1 期：["世纪逼空大战"](https://github.com/wmyskxz/weekly/blob/main/doc/issue-1.md)
