@@ -15,6 +15,7 @@
 # 2021
 
 ## 三月
+- 第 6 期：[光努力是没有用的](https://github.com/wmyskxz/weekly/blob/main/doc/issue-6.md)
 - 第 5 期：[货拉拉悲剧的背后](https://github.com/wmyskxz/weekly/blob/main/doc/issue-5.md)
 
 ## 二月
