@@ -15,6 +15,7 @@
 # 2021
 
 ## 四月
+- 第 10 期：[别让自己"墙"了自己](https://github.com/wmyskxz/weekly/blob/main/doc/issue-10.md)
 - 第 9 期：[活在自己的时区](https://github.com/wmyskxz/weekly/blob/main/doc/issue-9.md)
 
 ## 三月
