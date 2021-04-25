@@ -15,6 +15,7 @@
 # 2021
 
 ## 四月
+- 第 12 期：[提高收入的根本途径](https://github.com/wmyskxz/weekly/blob/main/doc/issue-12.md)
 - 第 11 期：[寻找你愿意忍受的痛苦](https://github.com/wmyskxz/weekly/blob/main/doc/issue-11.md)
 - 第 10 期：[别让自己"墙"了自己](https://github.com/wmyskxz/weekly/blob/main/doc/issue-10.md)
 - 第 9 期：[活在自己的时区](https://github.com/wmyskxz/weekly/blob/main/doc/issue-9.md)
