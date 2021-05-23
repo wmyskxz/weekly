@@ -15,6 +15,7 @@
 # 2021
 
 ## 五月
+- 第 16 期：[初次管理团队应该怎么做？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-16.md)
 - 第 15 期：[如何进行思考](https://github.com/wmyskxz/weekly/blob/main/doc/issue-15.md)
 - 第 14 期：[为什么你找不到喜欢的工作了](https://github.com/wmyskxz/weekly/blob/main/doc/issue-14.md)
 - 第 13 期：[大坑和小铲](https://github.com/wmyskxz/weekly/blob/main/doc/issue-13.md)
