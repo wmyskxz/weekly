@@ -15,6 +15,7 @@
 # 2021
 
 ## 五月
+- 第 17 期：[国家对比特币目前是什么态度？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-17.md)
 - 第 16 期：[初次管理团队应该怎么做？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-16.md)
 - 第 15 期：[如何进行思考](https://github.com/wmyskxz/weekly/blob/main/doc/issue-15.md)
 - 第 14 期：[为什么你找不到喜欢的工作了](https://github.com/wmyskxz/weekly/blob/main/doc/issue-14.md)
