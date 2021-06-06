@@ -14,6 +14,9 @@
 
 # 2021
 
+## 六月
+- 第 18 期：[为什么现代人的时间越来越少？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-18.md)
+
 ## 五月
 - 第 17 期：[国家对比特币目前是什么态度？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-17.md)
 - 第 16 期：[初次管理团队应该怎么做？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-16.md)
