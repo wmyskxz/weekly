@@ -15,6 +15,7 @@
 # 2021
 
 ## 六月
+- 第 19 期：[学校扼杀创造力](https://github.com/wmyskxz/weekly/blob/main/doc/issue-19.md)
 - 第 18 期：[为什么现代人的时间越来越少？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-18.md)
 
 ## 五月
