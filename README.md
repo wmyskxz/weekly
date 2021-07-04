@@ -13,6 +13,8 @@
 ![](https://cdn.jsdelivr.net/gh/wmyskxz/BlogImage02/2021-2-6/1612590449967-image.png)
 
 # 2021
+## 七月
+- 第 22 期：[YouTube 知识转移革命](https://github.com/wmyskxz/weekly/blob/main/doc/issue-22.md)
 
 ## 六月
 - 第 21 期：[高考的重要性，正在下降](https://github.com/wmyskxz/weekly/blob/main/doc/issue-21.md)
