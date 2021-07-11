@@ -14,6 +14,7 @@
 
 # 2021
 ## 七月
+- 第 23 期：[程序员的酒后真言](https://github.com/wmyskxz/weekly/blob/main/doc/issue-23.md)
 - 第 22 期：[YouTube 知识转移革命](https://github.com/wmyskxz/weekly/blob/main/doc/issue-22.md)
 
 ## 六月
