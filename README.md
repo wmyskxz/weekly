@@ -13,7 +13,11 @@
 ![](https://cdn.jsdelivr.net/gh/wmyskxz/BlogImage02/2021-2-6/1612590449967-image.png)
 
 # 2021
+## 八月
+- 第 26 期：[世界不是天才创造的](https://github.com/wmyskxz/weekly/blob/main/doc/issue-26.md)
 ## 七月
+- 第 25 期：[不要在功能上竞争](https://github.com/wmyskxz/weekly/blob/main/doc/issue-25.md)
+- 第 24 期：[这是做事情的正确顺序吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-24.md)
 - 第 23 期：[程序员的酒后真言](https://github.com/wmyskxz/weekly/blob/main/doc/issue-23.md)
 - 第 22 期：[YouTube 知识转移革命](https://github.com/wmyskxz/weekly/blob/main/doc/issue-22.md)
 
