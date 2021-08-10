@@ -14,7 +14,9 @@
 
 # 2021
 ## 八月
+- 第 27 期：[游戏是“精神鸦片”吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-27.md)
 - 第 26 期：[世界不是天才创造的](https://github.com/wmyskxz/weekly/blob/main/doc/issue-26.md)
+
 ## 七月
 - 第 25 期：[不要在功能上竞争](https://github.com/wmyskxz/weekly/blob/main/doc/issue-25.md)
 - 第 24 期：[这是做事情的正确顺序吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-24.md)
