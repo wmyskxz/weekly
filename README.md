@@ -14,6 +14,7 @@
 
 # 2021
 ## 八月
+- 第 29 期：[技术人员的发展之路](https://github.com/wmyskxz/weekly/blob/main/doc/issue-29.md)
 - 第 28 期：[软件工程师的职业建议](https://github.com/wmyskxz/weekly/blob/main/doc/issue-28.md)
 - 第 27 期：[游戏是“精神鸦片”吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-27.md)
 - 第 26 期：[世界不是天才创造的](https://github.com/wmyskxz/weekly/blob/main/doc/issue-26.md)
