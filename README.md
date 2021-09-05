@@ -13,6 +13,9 @@
 ![](https://cdn.jsdelivr.net/gh/wmyskxz/BlogImage02/2021-2-6/1612590449967-image.png)
 
 # 2021
+## 九月
+- 第 30 期：[软件公司的两种管理方式](https://github.com/wmyskxz/weekly/blob/main/doc/issue-30.md)
+
 ## 八月
 - 第 29 期：[技术人员的发展之路](https://github.com/wmyskxz/weekly/blob/main/doc/issue-29.md)
 - 第 28 期：[软件工程师的职业建议](https://github.com/wmyskxz/weekly/blob/main/doc/issue-28.md)
