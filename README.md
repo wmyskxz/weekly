@@ -14,6 +14,7 @@
 
 # 2021
 ## 九月
+- 第 33 期：[创业者需要知道的50句话](https://github.com/wmyskxz/weekly/blob/main/doc/issue-33.md)
 - 第 32 期：[知识广度 vs 知识深度](https://github.com/wmyskxz/weekly/blob/main/doc/issue-32.md)
 - 第 31 期：[特斯拉是如何称霸的](https://github.com/wmyskxz/weekly/blob/main/doc/issue-31.md)
 - 第 30 期：[软件公司的两种管理方式](https://github.com/wmyskxz/weekly/blob/main/doc/issue-30.md)
