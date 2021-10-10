@@ -13,6 +13,9 @@
 ![](https://cdn.jsdelivr.net/gh/wmyskxz/BlogImage02/2021-2-6/1612590449967-image.png)
 
 # 2021
+## 十月
+- 第 34 期：[工作的目的](https://github.com/wmyskxz/weekly/blob/main/doc/issue-34.md)
+
 ## 九月
 - 第 33 期：[创业者需要知道的50句话](https://github.com/wmyskxz/weekly/blob/main/doc/issue-33.md)
 - 第 32 期：[知识广度 vs 知识深度](https://github.com/wmyskxz/weekly/blob/main/doc/issue-32.md)
