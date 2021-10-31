@@ -14,6 +14,7 @@
 
 # 2021
 ## 十月
+- 第 37 期：[程序员仍然是「最佳版本答案」](https://github.com/wmyskxz/weekly/blob/main/doc/issue-37.md)
 - 第 36 期：[当世界置身火海](https://github.com/wmyskxz/weekly/blob/main/doc/issue-36.md)
 - 第 35 期：[首先是人，然后才是职场人](https://github.com/wmyskxz/weekly/blob/main/doc/issue-35.md)
 - 第 34 期：[工作的目的](https://github.com/wmyskxz/weekly/blob/main/doc/issue-34.md)
