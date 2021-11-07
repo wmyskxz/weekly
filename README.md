@@ -13,6 +13,10 @@
 ![](https://cdn.jsdelivr.net/gh/wmyskxz/BlogImage02/2021-2-6/1612590449967-image.png)
 
 # 2021
+
+## 十一月
+- 第 38 期：[我们需要延迟满足吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-38.md)
+
 ## 十月
 - 第 37 期：[程序员仍然是「最佳版本答案」](https://github.com/wmyskxz/weekly/blob/main/doc/issue-37.md)
 - 第 36 期：[当世界置身火海](https://github.com/wmyskxz/weekly/blob/main/doc/issue-36.md)
