@@ -15,6 +15,7 @@
 # 2021
 
 ## 十一月
+- 第 41 期：[成为更好管理者的六条违反直觉的规则](https://github.com/wmyskxz/weekly/blob/main/doc/issue-41.md)
 - 第 40 期：[皮克斯讲故事的方法](https://github.com/wmyskxz/weekly/blob/main/doc/issue-40.md)
 - 第 39 期：[什么是元宇宙？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-39.md)
 - 第 38 期：[我们需要延迟满足吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-38.md)
