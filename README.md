@@ -15,7 +15,7 @@
 # 2021
 
 ## 十二月
-- 第 41 期：[如何过得爽](https://github.com/wmyskxz/weekly/blob/main/doc/issue-42.md)
+- 第 42 期：[如何过得爽](https://github.com/wmyskxz/weekly/blob/main/doc/issue-42.md)
 
 ## 十一月
 - 第 41 期：[成为更好管理者的六条违反直觉的规则](https://github.com/wmyskxz/weekly/blob/main/doc/issue-41.md)
