@@ -15,6 +15,7 @@
 # 2021
 
 ## 十二月
+- 第 43 期：[如何保持每天精力充沛？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-43.md)
 - 第 42 期：[如何过得爽](https://github.com/wmyskxz/weekly/blob/main/doc/issue-42.md)
 
 ## 十一月
