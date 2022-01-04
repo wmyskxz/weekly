@@ -6,7 +6,7 @@
 
 # 订阅
 
-这个周刊每个礼拜天发布，同步更新在[个人博客](https://www.wmyskxz.com/)和[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=wmyskxz&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1861&sst0=1612590375262&lkt=8%2C1612590373961%2C1612590375161)
+这个周刊每周一07：30发布，同步更新在[个人博客](https://www.wmyskxz.com/)和[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=wmyskxz&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1861&sst0=1612590375262&lkt=8%2C1612590373961%2C1612590375161)
 
 微信搜索"我没有三颗心脏"或者扫描二维码，即可订阅。
 
