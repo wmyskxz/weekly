@@ -12,8 +12,18 @@
 
 ![](https://cdn.jsdelivr.net/gh/wmyskxz/BlogImage02/2021-2-6/1612590449967-image.png)
 
+# 2022 年
+
+## 一月
+
+- 第 46 期：[2022 年的十几条预测](https://github.com/wmyskxz/weekly/blob/main/doc/issue-46.md)
+
+
 # 2021
 
+<details>
+  <summary>2021 年合集</summary>
+  
 ## 十二月
 - 第 45 期：[两套用户画像工具](https://github.com/wmyskxz/weekly/blob/main/doc/issue-45.md)
 - 第 44 期：[不要当伪工作者](https://github.com/wmyskxz/weekly/blob/main/doc/issue-44.md)
@@ -81,3 +91,5 @@
 - 第 3 期：[开工大吉的 B 面](https://github.com/wmyskxz/weekly/blob/main/doc/issue-3.md)
 - 第 2 期：[年味去了哪里？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-2.md)
 - 第 1 期：["世纪逼空大战"](https://github.com/wmyskxz/weekly/blob/main/doc/issue-1.md)
+</details>
+
