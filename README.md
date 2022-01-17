@@ -16,6 +16,7 @@
 
 ## 一月
 
+- 第 48 期：[我们与天才的差距有多远？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-48.md)
 - 第 47 期：[解密“人生规则”](https://github.com/wmyskxz/weekly/blob/main/doc/issue-47.md)
 - 第 46 期：[2022 年的十几条预测](https://github.com/wmyskxz/weekly/blob/main/doc/issue-46.md)
 
