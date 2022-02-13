@@ -16,6 +16,7 @@
 
 ## 二月
 
+- 第 51 期：[巨无霸汉堡的价值与代价](https://github.com/wmyskxz/weekly/blob/main/doc/issue-51.md)
 - 第 50 期：[如何制定新年目标](https://github.com/wmyskxz/weekly/blob/main/doc/issue-50.md)
 
 ## 一月
