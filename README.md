@@ -16,6 +16,7 @@
 
 ## 二月
 
+- 第 53 期：[运气与风险](https://github.com/wmyskxz/weekly/blob/main/doc/issue-53.md)
 - 第 52 期：[匠人和志业](https://github.com/wmyskxz/weekly/blob/main/doc/issue-52.md)
 - 第 51 期：[巨无霸汉堡的价值与代价](https://github.com/wmyskxz/weekly/blob/main/doc/issue-51.md)
 - 第 50 期：[如何制定新年目标](https://github.com/wmyskxz/weekly/blob/main/doc/issue-50.md)
