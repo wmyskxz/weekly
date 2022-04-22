@@ -14,11 +14,18 @@
 
 # 2022 年
 
+## 四月
+
+- 第 60 期：[绝对成功靠运气，相对成功靠努力](https://github.com/wmyskxz/weekly/blob/main/doc/issue-60.md)
+- 第 59 期：[保持差异化才能生存](https://github.com/wmyskxz/weekly/blob/main/doc/issue-59.md)
+- 第 58 期：[天才的车票理论](https://github.com/wmyskxz/weekly/blob/main/doc/issue-58.md)
+
 ## 三月
 
+- 第 57 期：[如何平衡工作和生活](https://github.com/wmyskxz/weekly/blob/main/doc/issue-57.md)
+- 第 56 期：[孟岩的投资哲学](https://github.com/wmyskxz/weekly/blob/main/doc/issue-56.md)
 - 第 55 期：[创新最重要的事](https://github.com/wmyskxz/weekly/blob/main/doc/issue-55.md)
 - 第 54 期：[让更多人知道你，还是让爱你的人更爱你](https://github.com/wmyskxz/weekly/blob/main/doc/issue-54.md)
-
 
 ## 二月
 
