@@ -14,8 +14,15 @@
 
 # 2022 年
 
+## 五月
+
+- 第 63 期：[长尾效应](https://github.com/wmyskxz/weekly/blob/main/doc/issue-63.md)
+- 第 62 期：[凯文·凯利的70岁人生感悟](https://github.com/wmyskxz/weekly/blob/main/doc/issue-62.md)
+
+
 ## 四月
 
+- 第 61 期：[致富与守财](https://github.com/wmyskxz/weekly/blob/main/doc/issue-61.md)
 - 第 60 期：[绝对成功靠运气，相对成功靠努力](https://github.com/wmyskxz/weekly/blob/main/doc/issue-60.md)
 - 第 59 期：[保持差异化才能生存](https://github.com/wmyskxz/weekly/blob/main/doc/issue-59.md)
 - 第 58 期：[天才的车票理论](https://github.com/wmyskxz/weekly/blob/main/doc/issue-58.md)
