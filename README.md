@@ -16,6 +16,7 @@
 
 ## 五月
 
+- 第 65 期：[工程学不允许魔法，但心理学可以](https://github.com/wmyskxz/weekly/blob/main/doc/issue-65.md)
 - 第 64 期：[安全边际](https://github.com/wmyskxz/weekly/blob/main/doc/issue-64.md)
 - 第 63 期：[长尾效应](https://github.com/wmyskxz/weekly/blob/main/doc/issue-63.md)
 - 第 62 期：[凯文·凯利的70岁人生感悟](https://github.com/wmyskxz/weekly/blob/main/doc/issue-62.md)
