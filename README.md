@@ -14,6 +14,10 @@
 
 # 2022 年
 
+## 六月
+
+- 第 66 期：[1x 程序员](https://github.com/wmyskxz/weekly/blob/main/doc/issue-66.md)
+
 ## 五月
 
 - 第 65 期：[工程学不允许魔法，但心理学可以](https://github.com/wmyskxz/weekly/blob/main/doc/issue-65.md)
