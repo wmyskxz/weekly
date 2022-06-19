@@ -16,6 +16,8 @@
 
 ## 六月
 
+- 第 68 期：[35岁前要完成的五件事](https://github.com/wmyskxz/weekly/blob/main/doc/issue-68.md)
+- 第 67 期：[程序员是怎样的人](https://github.com/wmyskxz/weekly/blob/main/doc/issue-67.md)
 - 第 66 期：[1x 程序员](https://github.com/wmyskxz/weekly/blob/main/doc/issue-66.md)
 
 ## 五月
