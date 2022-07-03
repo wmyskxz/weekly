@@ -14,6 +14,10 @@
 
 # 2022 年
 
+## 七月
+
+- 第 70 期：[5% 的改变](https://github.com/wmyskxz/weekly/blob/main/doc/issue-70.md)
+
 ## 六月
 
 - 第 69 期：[如何获得运气](https://github.com/wmyskxz/weekly/blob/main/doc/issue-69.md)
