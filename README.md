@@ -16,6 +16,7 @@
 
 ## 七月
 
+- 第 73 期：[AI 会瞄准你的工作吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-73.md)
 - 第 72 期：[生活就像《吃豆人》游戏](https://github.com/wmyskxz/weekly/blob/main/doc/issue-72.md)
 - 第 71 期：[Donald Knuth 谈工作习惯、解决问题和幸福感](https://github.com/wmyskxz/weekly/blob/main/doc/issue-71.md)
 - 第 70 期：[5% 的改变](https://github.com/wmyskxz/weekly/blob/main/doc/issue-70.md)
