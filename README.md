@@ -14,6 +14,10 @@
 
 # 2022 年
 
+## 八月
+
+- 第 74 期：[要么成为标准，要么足够独特](https://github.com/wmyskxz/weekly/blob/main/doc/issue-74.md)
+
 ## 七月
 
 - 第 73 期：[AI 会瞄准你的工作吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-73.md)
