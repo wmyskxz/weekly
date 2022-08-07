@@ -16,6 +16,7 @@
 
 ## 八月
 
+- 第 75 期：[如何获得成功、从事你热爱的工作](https://github.com/wmyskxz/weekly/blob/main/doc/issue-75.md)
 - 第 74 期：[要么成为标准，要么足够独特](https://github.com/wmyskxz/weekly/blob/main/doc/issue-74.md)
 
 ## 七月
