@@ -16,6 +16,7 @@
 
 ## 八月
 
+- 第 77 期：[提高你的天花板](https://github.com/wmyskxz/weekly/blob/main/doc/issue-77.md)
 - 第 76 期：[高温天气只是开始](https://github.com/wmyskxz/weekly/blob/main/doc/issue-76.md)
 - 第 75 期：[如何获得成功、从事你热爱的工作](https://github.com/wmyskxz/weekly/blob/main/doc/issue-75.md)
 - 第 74 期：[要么成为标准，要么足够独特](https://github.com/wmyskxz/weekly/blob/main/doc/issue-74.md)
