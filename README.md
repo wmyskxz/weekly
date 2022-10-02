@@ -16,6 +16,8 @@
 
 ## 九月
 
+- 第 81 期：[你「过度疲劳」了吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-81.md)
+- 第 80 期：[什么是靠谱](https://github.com/wmyskxz/weekly/blob/main/doc/issue-80.md)
 - 第 79 期：[如何爱上工作](https://github.com/wmyskxz/weekly/blob/main/doc/issue-79.md)
 
 ## 八月
