@@ -14,6 +14,11 @@
 
 # 2022 年
 
+## 十月
+
+- 第 82 期：[我们正在变成文化穷人](https://github.com/wmyskxz/weekly/blob/main/doc/issue-82.md)
+
+
 ## 九月
 
 - 第 81 期：[你「过度疲劳」了吗？](https://github.com/wmyskxz/weekly/blob/main/doc/issue-81.md)
