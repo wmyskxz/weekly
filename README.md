@@ -16,6 +16,8 @@
 
 ## 十月
 
+- 第 84 期：[微软在多个领域后发先至的秘密](https://github.com/wmyskxz/weekly/blob/main/doc/issue-84.md)
+- 第 83 期：[人生不必太用力](https://github.com/wmyskxz/weekly/blob/main/doc/issue-83.md)
 - 第 82 期：[我们正在变成文化穷人](https://github.com/wmyskxz/weekly/blob/main/doc/issue-82.md)
 
 
